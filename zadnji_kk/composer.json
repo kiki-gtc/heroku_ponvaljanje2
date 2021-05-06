@@ -1,6 +1,6 @@
 {
-    "name": "kk-github/zadnji",
-    "description": "Ispit opako",
+    "name": "kk-github/heroku-vjezba2",
+    "description": "daj nauci to",
     "license": "MIT",
     "require": {
         "php" : ">=7.3"
